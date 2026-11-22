@@ -1,0 +1,6 @@
+# paywalled PDFs you must not redistribute: list them here
+# papers/bates1995incidence.pdf
+*.aux
+*.bbl
+*.blg
+*.log
