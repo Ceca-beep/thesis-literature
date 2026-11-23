@@ -1,9 +1,5 @@
 # Papers
 
-Put each PDF here as `<bibkey>.pdf` (e.g. `devlin2019bert.pdf`) and tick the box in `../notes/literature_notes.md`.
-
-**Copyright:** commit only open-access PDFs (arXiv, PMC, open-access journals). For paywalled papers keep the PDF locally and list it in `.gitignore`; the link below is enough.
-
 | Key | First author | Year | Title | Link | PDF |
 |---|---|---|---|---|---|
 | `sinsky2016allocation` | Sinsky | 2016 | Allocation of Physician Time in Ambulatory Practice: A Time and Motion Study in 4 Specialties | [doi.org/10.7326/M16-0961](https://doi.org/10.7326/M16-0961) | [ ] |
